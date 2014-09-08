@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            carlhicks[dot]me
 locale:           en_US
-url:              http://localhost:4000
+url:              http://carlhicks.me #http://localhost:4000
 
 
 # Jekyll configuration
@@ -26,28 +26,28 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Carl Hicks
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  bio: "Just another Guy[developer] with a blog."
+  email: carlhicks.me 
+  disqus-shortname: carlhicksdotme
+  twitter: cahicks1
+  facebook: carlhicksiii
   google:
     plus: #username
-    analytics: 
+    analytics: UA-54179433-1 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: hicksca
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: carlahicks
+  instagram: hicksca1
   lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
+  tumblr: hicksca
+  pinterest: hicksca
+  foursquare: cahicks1
   steam: #username
   dribbble: #username
 

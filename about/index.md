@@ -1,25 +1,23 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
+title: "About Carl"
+tags: [about, Jekyll]
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+comments: false
 image:
   feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  credit: Carl H
+  creditlink: 
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Born in Pittsburgh, PA, Carl was raised in Boca Raton, FL. Post undergrad, he worked in the corporate IT space, as consultant, on enterpise middleware solutions, mostly in the midwest.
 
-## Minimal Mistakes is all about:
+## Some of my skills include:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* A/B tests and Real Time Reporting
+* RoR (GIT, CAP, RVM, GEMS)
+* Linux Server Management (LAMP stack)
+* Cloud Environments
+* Rack Services, JSON/XML
+* Automated Integration Testing, Rspec/Watir
+* Agile Development
