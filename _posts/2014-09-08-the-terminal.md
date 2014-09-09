@@ -3,12 +3,11 @@ layout: post
 title: "The Terminal"
 author: carl_hicks 
 modified:
-excerpt: 
+tags: [link post, dev tools, web]
 date: 2014-09-08
-comments: true
 Link: http://furbo.org/2014/09/03/the-terminal/
 share: true
-tags: [link, dev tools, web]
+comments: true
 ---
 
 There have been a tons of great links and posts around the web, on one fo the most powerful tools in a developers tool box (The terminal) stemming from Craig Hockenberry's post: [The Terminal](http://furbo.org/2014/09/03/the-terminal/)  
