@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "→ PHP Developer Needed in Columbus, OH!"
+title: "PHP Developer Needed in Columbus, OH!"
 author: carl_hicks
 modified:
 tags: [random, link post]
