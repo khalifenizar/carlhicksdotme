@@ -10,7 +10,7 @@ share: true
 comments: true
 ---
 
-There have been a tons of great links and posts around the web, on one fo the most powerful tools in a developers tool box (The terminal) stemming from Craig Hockenberry's post: [The Terminal](http://furbo.org/2014/09/03/the-terminal/)
+There have been a tons of great links and posts around the web, on one of the most powerful tools in a developers tool box (The terminal), stemming from Craig Hockenberry's post: [The Terminal](http://furbo.org/2014/09/03/the-terminal/)
 <br><br>
 A good starting point that I have found for those new to the terminal is Zed Shaw's quick crash course at the end of ['Learn Ruby The Hard Way'](http://ruby.learncodethehardway.org/book/) ([Appendix A: Command Line Crash Course](http://ruby.learncodethehardway.org/book/appendixa.html))
 <br><br>
