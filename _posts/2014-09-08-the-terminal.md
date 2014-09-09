@@ -16,9 +16,6 @@ A good starting point that I have found for those new to the terminal is Zed Sha
 <br><br>
 Some of my favorite termnial posts:
 <br>
-* Dr Drang: [Chock amok](http://www.leancrew.com/all-this/2014/09/chock-amok/)
-
-* Mac|Life: [25 Terminal Tips Every Mac User Should Know](http://www.maclife.com/article/feature/25_terminal_tips_every_mac_user_should_know)
-
-* tuts+: [10 Terminal Commands That Will Boost Your Productivity](http://code.tutsplus.com/articles/10-terminal-commands-that-will-boost-your-productivity--net-14105)
-
+* Dr Drang - [Chock amok](http://www.leancrew.com/all-this/2014/09/chock-amok/)  
+* MacLife - [25 Terminal Tips Every Mac User Should Know](http://www.maclife.com/article/feature/25_terminal_tips_every_mac_user_should_know)  
+* tuts+ - [10 Terminal Commands That Will Boost Your Productivity](http://code.tutsplus.com/articles/10-terminal-commands-that-will-boost-your-productivity--net-14105)  
