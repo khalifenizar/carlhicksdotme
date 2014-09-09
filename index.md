@@ -4,6 +4,6 @@ excerpt: "A responsive Jekyll theme with editorial tendencies by designer Michae
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: texture-feature-01.jpg
-  credit: Carl Hicks
+  credit: Carl H
   creditlink: http://carlhicks.me
 ---
