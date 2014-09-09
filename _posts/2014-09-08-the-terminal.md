@@ -5,7 +5,7 @@ author: carl_hicks
 modified:
 tags: [link post, dev tools, web]
 date: 2014-09-08
-Link: http://furbo.org/2014/09/03/the-terminal/
+Link: http://furbo.org/2014/09/03/the-terminal
 share: true
 comments: true
 ---
@@ -16,6 +16,7 @@ A good starting point that I have found for those new to the terminal is Zed Sha
 <br>
 Some of my favorite termnial posts:  
 <br>
-* Dr Drang: [Chock amok](http://www.leancrew.com/all-this/2014/09/chock-amok/)  * Mac|Life: [25 Terminal Tips Every Mac User Should Know](http://www.maclife.com/article/feature/25_terminal_tips_every_mac_user_should_know)  
+* Dr Drang: [Chock amok](http://www.leancrew.com/all-this/2014/09/chock-amok/)  
+* Mac|Life: [25 Terminal Tips Every Mac User Should Know](http://www.maclife.com/article/feature/25_terminal_tips_every_mac_user_should_know)  
 * tuts+: [10 Terminal Commands That Will Boost Your Productivity](http://code.tutsplus.com/articles/10-terminal-commands-that-will-boost-your-productivity--net-14105)
 
