@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "→ Why you can startup right where you are"
+title: "Why you can startup right where you are"
 date: 2014-09-04
 author: carl_hicks 
 modified:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "→ I Love The Ineternet"
+title: "I Love The Ineternet"
 date: 2014-08-07
 author: carl_hicks 
 modified:

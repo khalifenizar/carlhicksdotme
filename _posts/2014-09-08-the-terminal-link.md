@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "→ The Terminal"
+title: "The Terminal"
 date: 2014-09-08
 author: carl_hicks 
 modified:
