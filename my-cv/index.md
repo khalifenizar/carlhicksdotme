@@ -9,7 +9,7 @@ image:
   feature:
 ---
 
-[PDF Copy Link](http://d.pr/f/eVGi/2cnYqOuW)  
+[PDF Copy Link](https://www.dropbox.com/s/fxx5iln9dlzcmsl/resume08_14.pdf?dl=0)  
 <br>  
 
 ###Profile
@@ -38,4 +38,3 @@ Responsible for all day to day technical needs of the school including but not l
 ###Education  
 
 __Earle C Clement Academy — ASIT, 2004__
-
