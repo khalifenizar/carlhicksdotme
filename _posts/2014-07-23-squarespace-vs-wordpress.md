@@ -20,6 +20,8 @@ I started by asking around and trying to figure out 'what was the most commonly 
 
 First hit pretty much described what I though it would along with pretty much everyone after.[^2] I could go on and on but I think at this point its clear do the search and you be the judge. I am almost sure I know where anyone with half a brain will end up if they are searching for a simple to use website solution.[^3]  
 
+------
+
 [^1]:While their were some digital designers in this sample, most of them would not consider themselves as web designer/developers so there technical skills tilted more toward beginner to novice on the technical spectrum when dealing with platform and hosting technologies.  
 
 [^2]:While WordPress is a extremely flexible and platform this article was based on an older version of Squarespace and Sqaurespace has since added developer mode allowing for full flexibility over your code to the point where I'd argue that it is just as powerful if not more.  
