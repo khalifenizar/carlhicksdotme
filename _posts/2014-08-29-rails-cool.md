@@ -24,7 +24,7 @@ __The Tech:__
 [OpenSteetMap](http://www.openstreetmap.org/about)  
 [RunKeepers api (HealthGraph)](http://developer.runkeeper.com/healthgraph)  
 [Forcast.io](https://developer.forecast.io/)  
-<br>  
-<br>  
+
+------
 
 [^1]: I came across this app while listening to the [Ruby on Rails Podcast](http://5by5.tv/rubyonrails/165) hosted by [Sean Devine](http://5by5.tv/people/sean-devine) of the [5by5.tv](http://5by5.tv/) network.  
