@@ -70,15 +70,15 @@ For those of you who have used Editorial's workflows this is pretty stright forw
 <br><br>
 I suggest creating a post to test with before starting. Then you will click the wrench in the two right conner to enter the workflow panel. Once in the workflow panel you will want to create a new workflow by clicking on the '+' in the top left conner.
 <br><br>
-<img src="{{ site.url }}/images/2014-09-11-editorial-01.png" width="240" height="426"><img src="{{ site.url }}/images/2014-09-11-editorial-02.png" width="240" height="426">
+<img src="{{ site.url }}/images/2014-09-11-editorial-01.png" width="240" height="426" hspace="20"><img src="{{ site.url }}/images/2014-09-11-editorial-02.png" width="240" height="426" hspace="20">
 <br><br>
 At this point you will be in a blank workflow. You will want to add to add action to your workflow by clicking on the '+' in the top left corner. Scroll down to add the 'Run Python Script' action.
 <br><br>
-<img src="{{ site.url }}/images/2014-09-11-editorial-03.png" width="240" height="426"><img src="{{ site.url }}/images/2014-09-11-editorial-04.png" width="240" height="426">
+<img src="{{ site.url }}/images/2014-09-11-editorial-03.png" width="240" height="426" hspace="20"><img src="{{ site.url }}/images/2014-09-11-editorial-04.png" width="240" height="426" hspace="20">
 <br><br>
 Once the python action has been added you will need to add your script in the editor window. Once added you can test your changes to make sure the settings are match your needs. You will get a dialog box with a status.
 <br><br>
-<img src="{{ site.url }}/images/2014-09-11-editorial-05.png" width="240" height="426"><img src="{{ site.url }}/images/2014-09-11-editorial-06.png" width="240" height="426">
+<img src="{{ site.url }}/images/2014-09-11-editorial-05.png" width="240" height="426" hspace="20"><img src="{{ site.url }}/images/2014-09-11-editorial-06.png" width="240" height="426" hspace="20">
 <br><br><br>
 At this point your set.
 
