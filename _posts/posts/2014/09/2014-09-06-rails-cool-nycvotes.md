@@ -1,12 +1,17 @@
 ---
 layout: post
-title: "COOL RAILS"
+title: "COOL RAILS - NYCvotes"
 author: carl_hicks 
-modified:
+categories: posts
 excerpt: "Cool Rails projects I come across on the web each week."
-date: 2014-09-06
+link:
+tags: [coding,rails,tech]
+image:
+   feature:
+date: 2014-09-06T10:03:29-06:00
 comments: true
-tags: []
+share: true
+modified:
 ---
 
 ####Cool Rails projects I come across on the web each week.

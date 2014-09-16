@@ -1,14 +1,17 @@
 ---
 layout: post
 title: "MOBILE JEKYLL POSTING"
-date: 2014-09-09
 author: carl_hicks 
-modified:
-excerpt: "After getting off my hands and creating a ..."
+categories: posts
+excerpt: "After getting off my hands and creating a peronal blog"
+link:
 tags: [dev tools, code, blogging]
-link: 
-share: true
+image:
+   feature:
+date: 2014-09-09T01:12:33-06:00
 comments: true
+share: true
+modified:
 ---
 
 After finally getting off my hands and creating a personal blog, I choose to go with Jekyll hosted on github pages. 

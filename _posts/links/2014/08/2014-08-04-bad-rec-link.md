@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "PHP Developer Needed in Columbus, OH!"
-author: carl_hicks
-modified:
-tags: [random, link post]
-link: http://www.marco.org/2014/07/22/robert-half-technology  
-share: true
+author: carl_hicks 
+categories: links
+excerpt: ""
+tags: [random,link post]
+image:
+   feature:
+date: 2014-08-04T14:49:05-05:00
 comments: true
+share: true
+modified:
+link: http://www.marco.org/2014/07/22/robert-half-technology
 ---
 
 Marco Arment:  

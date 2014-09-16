@@ -1,12 +1,17 @@
 ---
 layout: post
 title: "ALS ICE BUCKET CHALLENGE"
-author: carl_hicks 
-modified:
+author: carl_hicks
+categories: posts
 excerpt: "It was only a matter of time."
-date: 2014-08-25
-comments: true
 tags: [random]
+image:
+   feature:
+date: 2014-08-25T01:15:43-05:00
+comments: true
+share: true
+modified:
+link:
 ---
 
 It was only a matter of time. Generally speaking I would not cave to peer pressure, but when you son challanges you and does the challange himself ... well you have to cave.  

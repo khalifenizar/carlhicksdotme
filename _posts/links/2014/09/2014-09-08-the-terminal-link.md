@@ -1,13 +1,17 @@
 ---
 layout: post
 title: "The Terminal"
-date: 2014-09-08
 author: carl_hicks 
-modified:
-tags: [link post, dev tools]
-link: http://furbo.org/2014/09/03/the-terminal
-share: true
+categories: links
+excerpt: ""
+tags: [link post,tech]
+image:
+   feature:
+date: 2014-09-08T02:01:00-05:00
 comments: true
+share: true
+modified:
+link: http://furbo.org/2014/09/03/the-terminal
 ---
 
 There have been a tons of great links and posts around the web, on one of the most powerful tools in a developers tool box (The terminal), stemming from Craig Hockenberry's post: [The Terminal](http://furbo.org/2014/09/03/the-terminal/)

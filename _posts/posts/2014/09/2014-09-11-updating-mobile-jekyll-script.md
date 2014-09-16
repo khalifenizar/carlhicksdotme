@@ -2,11 +2,16 @@
 layout: post
 title: "UPDATING MOBILE JEKYLL SCRIPT"
 author: carl_hicks 
-modified:
-excerpt: ""
-date: 2014-09-11
+categories: posts
+excerpt: "This is some quick followup to a previous post"
+link:
+tags: [dev tools,code, python,ios,mobile,editoral_app]
+image:
+   feature:
+date: 2014-09-11T16:46:05-06:00
 comments: true
-tags: [editoral, python, code, update]
+share: true
+modified:
 ---
 
 This is some quick followup to a previous post ['MOBILE JEKYLL POSTING'](http://carlhicks.me/mobile-jekyll-posting/). I just wanted to go into a little more detail and show some changes I made to [Malphas Wats'](http://github.com/MalphasWats) script to [Post to GitHub Pages from Editorial](https://gist.github.com/MalphasWats/7977513).

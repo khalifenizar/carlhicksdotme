@@ -1,18 +1,22 @@
 ---
 layout: post
-title: "COOL RAILS"
+title: "COOL RAILS - Availio"
 author: carl_hicks 
-modified:
+categories: posts
 excerpt: "Cool Rails projects I come across on the web each week."
-date: 2014-09-13
+tags: [code,tech,rails]
+image:
+   feature:
+date: 2014-09-13T12:41:19-05:00
 comments: true
 share: true
-tags: [pow,RoR,coding,cool]
+modified:
+link:
 ---
 
 ###Cool <del>Rails</del> Sinatra projects I come across on the web each week.
 
-[<img src="{{ site.url }}/images/avilio_hp.jpg" border="10">](http://avil.io)  
+[<img src="{{ site.url }}/images/avilio_hp.jpg" border="10">](http://avail.io)  
 <br>  
 This week my pick is [Availio](http://avail.io/)(Avail.io) by [Nitch](http://nitch.cc).[^1]  
 <br>

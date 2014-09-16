@@ -1,12 +1,17 @@
 ---
 layout: post
-title: "COOL RAILS"
+title: "COOL RAILS - CityStrides"
 author: carl_hicks 
-modified:
+categories: posts
 excerpt: "Cool Rails projects I come across on the web each week."
-date: 2014-08-30
+link:
+tags: [coding,rails,tech]
+image:
+   feature:
+date: 2014-08-29T03:29:21-06:00
 comments: true
-tags: [pow,RoR,coding,cool]
+share: true
+modified:
 ---
 
 ####Cool Rails projects I come across on the web each week.

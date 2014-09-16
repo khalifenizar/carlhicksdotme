@@ -2,12 +2,16 @@
 layout: post
 title: "HELLO WORLD"
 author: carl_hicks 
-modified:
-excerpt: "My HELLO WORLD POST"
-date: 2013-11-15
+categories: archive
+excerpt: "My HELLO WORLD POST."
+tags: [intro]
+image:
+   feature:
+date: 2013-11-15T02:10:02-05:00
 comments: true
 share: true
-tags: [intro]
+modified:
+link:
 ---
 
 My HELLO WORLD post.   

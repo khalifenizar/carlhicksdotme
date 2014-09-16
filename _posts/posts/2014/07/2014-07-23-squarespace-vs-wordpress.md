@@ -2,13 +2,19 @@
 layout: post
 title: "SQUARESPACE VS WORDPRESS"
 author: carl_hicks 
-modified:
-excerpt: "Today I was having a conversation with a graphic designer and somehow we ended up on the topic of web platforms."
+categories: posts
+link:
+excerpt: "Today I was having a conversation with a graphic designer and somehow we ended up on the topic of blogging technology"
 tags: [tech]
+image:
+   feature:
+date: 2014-07-23T10:35:11-6:00
 comments: true
+share: true
+modified:
 ---
 
-Today I was having a conversation with a graphic designer and somehow we ended up on the topic of web platforms. I say somehow because this particular designer medium of choose is generally 'physical' rather then web (i.e. print). He suggested for that for small quick projects that he'd be handing over to the client to maintain WordPress, hosted on a big box hosting service, was the best solution for his clients. This somewhat throw me for a loop because I know for a fact that he at least knew what Squarespace had to offer.  
+Today I was having a conversation with a graphic designer and somehow we ended up on the topic of blogging technology. I say somehow because this particular designer medium of choose is generally 'physical' rather then web (i.e. print). He suggested for that for small quick projects that he'd be handing over to the client to maintain WordPress, hosted on a big box hosting service, was the best solution for his clients. This somewhat throw me for a loop because I know for a fact that he at least knew what Squarespace had to offer.  
 <br>
 While I have no issues with WordPress, some of my favorite sites/blogs were created using the platform and live on the platform to this day, I could not understand why you would hand over a site that you did not intend to maintain to a client, with no development skills, built on WordPress. This was not a conversation of which platform was more technically superior but rather a discussion on the easy of use for none web designers/developers. In my head I though this is almost a no brainer when you compare both platforms/hosting solutions. However after spending an half an hour going back and forth over this topic I conceded due to the fact that I had much better things to waste time on. Walking away from this conversation though I started to think more about this topic and wanted to see if I just had not given WordPress a good look in a while. So down that rabbit hole I went looking to see if it was just me or was I just 'fanboy' trying to side with my platform of choice.  
 <br>

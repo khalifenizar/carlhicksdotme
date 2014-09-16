@@ -1,14 +1,17 @@
 ---
 layout: post
 title: "Not a hobby"
-date: 2014-09-10
 author: carl_hicks 
+categories: links
 excerpt: ""
-modified:
-tags: [link post, apple, tech]
-link: http://randsinrepose.com/archives/not-a-hobby/
-share: true
+tags: [link post,tech]
+image:
+   feature:
+date: 2014-09-10T22:25:26-05:00
 comments: true
+share: true
+modified:
+link: http://randsinrepose.com/archives/not-a-hobby/
 ---
 
 ['Not a hobby'](http://randsinrepose.com/archives/not-a-hobby/) over at [randsinrepose.com](randsinrepose.com) caught my eye when questioning why Apple changed gears in the way it lunched the  watch.
