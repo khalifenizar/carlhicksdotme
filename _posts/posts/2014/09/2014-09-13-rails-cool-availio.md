@@ -2,7 +2,7 @@
 layout: post
 title: "COOL RAILS - Availio"
 author: carl_hicks 
-categories: posts
+categories:
 excerpt: "Cool Rails projects I come across on the web each week."
 tags: [code,tech,rails]
 image:

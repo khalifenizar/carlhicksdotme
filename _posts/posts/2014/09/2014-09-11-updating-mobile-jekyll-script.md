@@ -2,7 +2,7 @@
 layout: post
 title: "UPDATING MOBILE JEKYLL SCRIPT"
 author: carl_hicks 
-categories: posts
+categories:
 excerpt: "This is some quick followup to a previous post"
 link:
 tags: [dev tools,code, python,ios,mobile,editoral_app]

@@ -3,6 +3,7 @@ layout: post
 title: "HELLO WORLD"
 author: carl_hicks 
 categories: archive
+link: http://justinhileman.info/article/git-pretty/
 excerpt: "My HELLO WORLD POST."
 tags: [intro]
 image:

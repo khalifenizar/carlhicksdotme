@@ -2,7 +2,7 @@
 layout: post
 title: "ALS ICE BUCKET CHALLENGE"
 author: carl_hicks
-categories: posts
+categories:
 excerpt: "It was only a matter of time."
 tags: [random]
 image:

@@ -2,7 +2,7 @@
 layout: post
 title: "MOBILE JEKYLL POSTING"
 author: carl_hicks 
-categories: posts
+categories:
 excerpt: "After getting off my hands and creating a peronal blog"
 link:
 tags: [dev tools, code, blogging]

@@ -2,7 +2,7 @@
 layout: post
 title: "SQUARESPACE VS WORDPRESS"
 author: carl_hicks 
-categories: posts
+categories:
 link:
 excerpt: "Today I was having a conversation with a graphic designer and somehow we ended up on the topic of blogging technology"
 tags: [tech]
