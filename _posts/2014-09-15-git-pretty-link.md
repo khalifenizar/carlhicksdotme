@@ -11,4 +11,4 @@ link: http://justinhileman.info/article/git-pretty/
 tags: [tech,link,code,dev tools]
 ---
 
-I generally dislike looking at flowcharts but this one I find to be rather helpful.
+I generally dislike looking at flowcharts but this one I find to be rather helpful.[→](http://justinhileman.info/article/git-pretty/)
