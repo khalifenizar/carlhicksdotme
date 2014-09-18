@@ -16,7 +16,8 @@ link: https://vimeo.com/69185909
 
 This is one of the best basic tmux introduction videos[^1] I have come accross.[→](https://vimeo.com/69185909)  
 
-<iframe src="//player.vimeo.com/video/69185909?title=0&amp;byline=0&amp;portrait=0" width="700" height="481" frameborder="0"/>  
+<iframe src="//player.vimeo.com/video/69185909?title=0&amp;byline=0&amp;portrait=0" width="700" height="481" frameborder="0"> </iframe>  
+
 
 ------
 
