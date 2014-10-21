@@ -16,6 +16,7 @@ link: http://philgr.com/blog/parsing-natural-language-drafts-4
 
 Phillip Gruneich:
 <br><br>
+
 > If you ever used Fantastical or Due, you know that natural language parsing is better than chocolate. Now I want you to count how many task managers you know that implement natural language parsing. Exactly, none.
 
 <br><br>
