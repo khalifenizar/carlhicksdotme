@@ -11,7 +11,7 @@ date: 2014-10-26T19:16:16-06:00
 comments: true
 share: true
 modified:
-link:http://strongloop.com/strongblog/node-js-ruby-on-rails-getting-started/
+link: http://strongloop.com/strongblog/node-js-ruby-on-rails-getting-started/
 ---
 
 Get post by the good people over at StrongLoop.→
