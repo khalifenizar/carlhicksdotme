@@ -7,7 +7,7 @@ excerpt: ""
 tags: [link,coding,learning,nodejs,js,rails]
 image:
    feature:
-date: 2014-10-31T19:12:16-06:00
+date: 2014-10-31T09:12:16-06:00
 comments: true
 share: true
 modified:
