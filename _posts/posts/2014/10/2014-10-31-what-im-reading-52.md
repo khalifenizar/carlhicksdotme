@@ -7,7 +7,7 @@ excerpt: "Things I'm reading this week."
 tags: [reading,personal,random]
 image:
    feature:
-date: 2014-10-31T20:15:31-06:00
+date: 2014-10-31T08:15:31-06:00
 comments: true
 share: true
 modified:
