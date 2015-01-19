@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://carlhicks.me/feed.xml" />
 <link rel="alternate" type="text/html" href="http://carlhicks.me" />
-<updated>2014-12-20T12:44:31-06:00</updated>
+<updated>2015-01-18T21:53:12-05:00</updated>
 <id>http://carlhicks.me/</id>
 <author>
   <name>Carl Hicks</name>
@@ -16,11 +16,36 @@
   
 
 <entry>
+  <title type="html"><![CDATA[Ironhack]]></title>
+  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2015/01/IronHack/" />
+  <id>http://carlhicks.me/blog/2015/01/IronHack</id>
+  <published>2015-01-18T21:20:40-05:00</published>
+  <updated>2015-01-18T21:20:40-05:00</updated>
+  <author>
+    <name>Carl Hicks</name>
+    <uri>http://carlhicks.me</uri>
+    <email>mail@carlhicks.me</email>
+  </author>
+  <content type="html">&lt;center&gt;&lt;img src=&quot;/images/ironhack-black-logo.png&quot; /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
+Last week was the kickoff of a vary new and interesting experiance for me. Week one at &lt;a href=&quot;http://ironhack.com/&quot;&gt;Ironhack&lt;/a&gt; (A dev bootcamp in beautiful Miami) just came to an end and I am exeramely excited. In one week alone I feel like I’ve learned a tremendous amount, and have started to build out a great new network of exermelly talented people. I can not wait to push forward with my follow members in my cohort, both here in Miami and our sister campus in barcelona. Good luck to my fellow classmates!
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/images/IronHack1.png&quot; /&gt;&lt;img src=&quot;/images/Ironhack2.png&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2015/01/IronHack/&quot;&gt;Ironhack&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on January 18, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/11/what-im-reading-53/" />
   <id>http://carlhicks.me/blog/2014/11/what-im-reading-53</id>
-  <published>2014-11-06T10:12:11-06:00</published>
-  <updated>2014-11-06T10:12:11-06:00</updated>
+  <published>2014-11-06T11:12:11-05:00</published>
+  <updated>2014-11-06T11:12:11-05:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -49,8 +74,8 @@
   <title type="html"><![CDATA[% of USA Populcation Obtaining Food Stamps 1989-2012]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/us-state-presentage-of-population-on-food-stamps-1989-2012-link/" />
   <id>http://carlhicks.me/blog/2014/10/us-state-presentage-of-population-on-food-stamps-1989-2012-link</id>
-  <published>2014-10-31T10:12:16-05:00</published>
-  <updated>2014-10-31T10:12:16-05:00</updated>
+  <published>2014-10-31T11:12:16-04:00</published>
+  <updated>2014-10-31T11:12:16-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -68,8 +93,8 @@
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/what-im-reading-52/" />
   <id>http://carlhicks.me/blog/2014/10/what-im-reading-52</id>
-  <published>2014-10-31T09:15:31-05:00</published>
-  <updated>2014-10-31T09:15:31-05:00</updated>
+  <published>2014-10-31T10:15:31-04:00</published>
+  <updated>2014-10-31T10:15:31-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -98,8 +123,8 @@
   <title type="html"><![CDATA[Getting Started with Node.js for the Rails Developer]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/getting-started-with-nodejs-for-the-rails-developer-link/" />
   <id>http://carlhicks.me/blog/2014/10/getting-started-with-nodejs-for-the-rails-developer-link</id>
-  <published>2014-10-26T20:16:16-05:00</published>
-  <updated>2014-10-26T20:16:16-05:00</updated>
+  <published>2014-10-26T21:16:16-04:00</published>
+  <updated>2014-10-26T21:16:16-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -117,8 +142,8 @@
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/what-im-reading-50/" />
   <id>http://carlhicks.me/blog/2014/10/what-im-reading-50</id>
-  <published>2014-10-24T21:59:31-05:00</published>
-  <updated>2014-10-24T21:59:31-05:00</updated>
+  <published>2014-10-24T22:59:31-04:00</published>
+  <updated>2014-10-24T22:59:31-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -150,8 +175,8 @@
   <title type="html"><![CDATA[Parsing natural language in Drafts 4]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/parsing-natural-language-in-drafts-4/" />
   <id>http://carlhicks.me/blog/2014/10/parsing-natural-language-in-drafts-4</id>
-  <published>2014-10-21T00:45:06-05:00</published>
-  <updated>2014-10-21T00:45:06-05:00</updated>
+  <published>2014-10-21T01:45:06-04:00</published>
+  <updated>2014-10-21T01:45:06-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -177,8 +202,8 @@ I think we are definetly starting to see a new class of apps coming for iOS. Phi
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/what-im-reading-49/" />
   <id>http://carlhicks.me/blog/2014/10/what-im-reading-49</id>
-  <published>2014-10-17T22:59:51-05:00</published>
-  <updated>2014-10-17T22:59:51-05:00</updated>
+  <published>2014-10-17T23:59:51-04:00</published>
+  <updated>2014-10-17T23:59:51-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -210,8 +235,8 @@ I think we are definetly starting to see a new class of apps coming for iOS. Phi
   <title type="html"><![CDATA[5 Programming Languages Marked for Death]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/5-programming-languages-marked-for-death-link/" />
   <id>http://carlhicks.me/blog/2014/10/5-programming-languages-marked-for-death-link</id>
-  <published>2014-10-13T13:12:30-05:00</published>
-  <updated>2014-10-13T13:12:30-05:00</updated>
+  <published>2014-10-13T14:12:30-04:00</published>
+  <updated>2014-10-13T14:12:30-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -229,8 +254,8 @@ I think we are definetly starting to see a new class of apps coming for iOS. Phi
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/what-im-reading-48/" />
   <id>http://carlhicks.me/blog/2014/10/what-im-reading-48</id>
-  <published>2014-10-10T19:42:29-05:00</published>
-  <updated>2014-10-10T19:42:29-05:00</updated>
+  <published>2014-10-10T20:42:29-04:00</published>
+  <updated>2014-10-10T20:42:29-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -259,8 +284,8 @@ I think we are definetly starting to see a new class of apps coming for iOS. Phi
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/what-im-reading-47/" />
   <id>http://carlhicks.me/blog/2014/10/what-im-reading-47</id>
-  <published>2014-10-03T20:48:50-05:00</published>
-  <updated>2014-10-03T20:48:50-05:00</updated>
+  <published>2014-10-03T21:48:50-04:00</published>
+  <updated>2014-10-03T21:48:50-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -289,8 +314,8 @@ I think we are definetly starting to see a new class of apps coming for iOS. Phi
   <title type="html"><![CDATA[COOL RAILS - Revision.io]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/09/cool-rails-revisionio/" />
   <id>http://carlhicks.me/blog/2014/09/cool-rails-revisionio</id>
-  <published>2014-09-27T06:15:02-05:00</published>
-  <updated>2014-09-27T06:15:02-05:00</updated>
+  <published>2014-09-27T07:15:02-04:00</published>
+  <updated>2014-09-27T07:15:02-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -330,8 +355,8 @@ While not new by any means &lt;/p&gt;
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/09/what-im-reading-46/" />
   <id>http://carlhicks.me/blog/2014/09/what-im-reading-46</id>
-  <published>2014-09-26T22:16:22-05:00</published>
-  <updated>2014-09-26T22:16:22-05:00</updated>
+  <published>2014-09-26T23:16:22-04:00</published>
+  <updated>2014-09-26T23:16:22-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -376,8 +401,8 @@ While not new by any means &lt;/p&gt;
   <title type="html"><![CDATA[Onbaording Junior Developers]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/links/2014/09/onboarding-junior-developers-link/" />
   <id>http://carlhicks.me/blog/links/2014/09/onboarding-junior-developers-link</id>
-  <published>2014-09-25T02:01:00-05:00</published>
-  <updated>2014-09-25T02:01:00-05:00</updated>
+  <published>2014-09-25T03:01:00-04:00</published>
+  <updated>2014-09-25T03:01:00-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -407,8 +432,8 @@ While not new by any means &lt;/p&gt;
   <title type="html"><![CDATA[COOL RAILS - Github]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/09/cool-rails-github/" />
   <id>http://carlhicks.me/blog/2014/09/cool-rails-github</id>
-  <published>2014-09-20T16:41:12-05:00</published>
-  <updated>2014-09-20T16:41:12-05:00</updated>
+  <published>2014-09-20T17:41:12-04:00</published>
+  <updated>2014-09-20T17:41:12-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -449,8 +474,8 @@ While not new by any means &lt;/p&gt;
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/09/what-im-reading-45/" />
   <id>http://carlhicks.me/blog/2014/09/what-im-reading-45</id>
-  <published>2014-09-19T02:16:22-05:00</published>
-  <updated>2014-09-19T02:16:22-05:00</updated>
+  <published>2014-09-19T03:16:22-04:00</published>
+  <updated>2014-09-19T03:16:22-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -492,8 +517,8 @@ While not new by any means &lt;/p&gt;
   <title type="html"><![CDATA[Great intro to tmux session]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/links/2014/09/great-tmux-intro-link/" />
   <id>http://carlhicks.me/blog/links/2014/09/great-tmux-intro-link</id>
-  <published>2014-09-17T15:30:31-05:00</published>
-  <updated>2014-09-17T15:30:31-05:00</updated>
+  <published>2014-09-17T16:30:31-04:00</published>
+  <updated>2014-09-17T16:30:31-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -525,8 +550,8 @@ While not new by any means &lt;/p&gt;
   <title type="html"><![CDATA[Git pretty]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/links/2014/09/git-pretty-link/" />
   <id>http://carlhicks.me/blog/links/2014/09/git-pretty-link</id>
-  <published>2014-09-15T23:03:24-05:00</published>
-  <updated>2014-09-15T23:03:24-05:00</updated>
+  <published>2014-09-16T00:03:24-04:00</published>
+  <updated>2014-09-16T00:03:24-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -534,7 +559,7 @@ While not new by any means &lt;/p&gt;
   </author>
   <content type="html">&lt;p&gt;I generally dislike looking at flowcharts but this one I find to be rather helpful.&lt;a href=&quot;http://justinhileman.info/article/git-pretty/&quot;&gt;→&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/links/2014/09/git-pretty-link/&quot;&gt;Git pretty&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/links/2014/09/git-pretty-link/&quot;&gt;Git pretty&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 16, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -544,8 +569,8 @@ While not new by any means &lt;/p&gt;
   <title type="html"><![CDATA[COOL RAILS - Availio]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/09/cool-rails-availio/" />
   <id>http://carlhicks.me/blog/2014/09/cool-rails-availio</id>
-  <published>2014-09-13T12:41:19-05:00</published>
-  <updated>2014-09-13T12:41:19-05:00</updated>
+  <published>2014-09-13T13:41:19-04:00</published>
+  <updated>2014-09-13T13:41:19-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -586,8 +611,8 @@ Availio, beside having an awsome name, is a domain search tool. Trying to figure
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
   <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/09/what-im-reading-44/" />
   <id>http://carlhicks.me/blog/2014/09/what-im-reading-44</id>
-  <published>2014-09-12T13:01:22-05:00</published>
-  <updated>2014-09-12T13:01:22-05:00</updated>
+  <published>2014-09-12T14:01:22-04:00</published>
+  <updated>2014-09-12T14:01:22-04:00</updated>
   <author>
     <name>Carl Hicks</name>
     <uri>http://carlhicks.me</uri>
@@ -610,115 +635,6 @@ Availio, beside having an awsome name, is a domain search tool. Trying to figure
 &lt;a href=&quot;http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/067443000X?tag=thenewyorktim-20&quot;&gt; &lt;em&gt;Capital in the Twenty-First Century&lt;/em&gt; &lt;/a&gt; by &lt;a href=&quot;http://piketty.pse.ens.fr/en/cv-en&quot;&gt;&lt;strong&gt;Thomas Piketty&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/09/what-im-reading-44/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 12, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[UPDATING MOBILE JEKYLL SCRIPT]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/09/updating-mobile-jekyll-script/" />
-  <id>http://carlhicks.me/blog/2014/09/updating-mobile-jekyll-script</id>
-  <published>2014-09-11T17:46:05-05:00</published>
-  <updated>2014-09-11T17:46:05-05:00</updated>
-  <author>
-    <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
-    <email>mail@carlhicks.me</email>
-  </author>
-  <content type="html">&lt;p&gt;This is some quick followup to a previous post &lt;a href=&quot;http://carlhicks.me/mobile-jekyll-posting/&quot;&gt;‘MOBILE JEKYLL POSTING’&lt;/a&gt;. I just wanted to go into a little more detail and show some changes I made to &lt;a href=&quot;http://github.com/MalphasWats&quot;&gt;Malphas Wats’&lt;/a&gt; script to &lt;a href=&quot;https://gist.github.com/MalphasWats/7977513&quot;&gt;Post to GitHub Pages from Editorial&lt;/a&gt;.
-&lt;br /&gt;&lt;br /&gt;
-A quick review:
-&lt;br /&gt;&lt;br /&gt;
-I wanted the ability to post from my iOS devices, after searching around and reading &lt;a href=&quot;http://github.com/stevencombs&quot;&gt;Steven Combs’&lt;/a&gt; post &lt;a href=&quot;http://www.stevencombs.com/web/2014/07/01/post-to-a-jekyll-blog-from-an-ipad.html&quot;&gt;‘Post to a Jekyll blog from an iPad’&lt;/a&gt; and finding Malphas Wats’ script I realized had excatly what I needed on my devices already (Editorial + python script).
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;the-script&quot;&gt;The script:&lt;/h3&gt;
-
-&lt;p&gt;So first things first, I had to doctor Wats’ script, to &lt;a href=&quot;https://gist.github.com/MalphasWats/7977513&quot;&gt;Post to GitHub Pages from Editorial&lt;/a&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, to fix a few things I did not like.&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;
-&lt;br /&gt;&lt;br /&gt;
-First I took out lines 16 - 35 because I’m only posting to one repository/blog and didn’t want to key in my github username, API token, and repository each time the script ran.
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;c&quot;&gt;#keychain.delete_password(&amp;#39;GitHub&amp;#39;, &amp;#39;username&amp;#39;)    # Uncomment these lines&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;c&quot;&gt;#keychain.delete_password(&amp;#39;GitHub&amp;#39;, &amp;#39;token&amp;#39;)       # to change the details&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;18&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;c&quot;&gt;#keychain.delete_password(&amp;#39;GitHub&amp;#39;, &amp;#39;repository&amp;#39;)  # stored in the keychain&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;19&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   
-&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;c&quot;&gt;# Get Username, API Token and Repository&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;21&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;n&quot;&gt;username&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;keychain&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;get_password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;GitHub&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;username&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;22&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;24&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   	&lt;span class=&quot;n&quot;&gt;username&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;input_alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Username&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Enter your GitHub Username&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Save&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;25&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   	&lt;span class=&quot;n&quot;&gt;keychain&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set_password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;GitHub&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;username&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;26&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   	
-&lt;span class=&quot;mi&quot;&gt;27&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;n&quot;&gt;tokn&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;keychain&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;get_password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;GitHub&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;token&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;28&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tokn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;29&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   	&lt;span class=&quot;n&quot;&gt;tokn&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;password_alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;API Token&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Enter your GitHub API Token&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Save&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   	&lt;span class=&quot;n&quot;&gt;keychain&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set_password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;GitHub&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;token&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;tokn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;31&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;    
-&lt;span class=&quot;mi&quot;&gt;32&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;n&quot;&gt;repo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;keychain&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;get_password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;GitHub&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;repository&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;33&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;repo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;34&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   	&lt;span class=&quot;n&quot;&gt;repo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;input_alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Repository&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Enter your GitHub Repository name&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;Save&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;35&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   	&lt;span class=&quot;n&quot;&gt;keychain&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;set_password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;GitHub&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;repository&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;repo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;em&gt;I replaced this code with the following, to set the varables for my github credentials:&lt;/em&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;mi&quot;&gt;15&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;n&quot;&gt;username&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;your github username&amp;#39;&lt;/span&gt;
-&lt;span class=&quot;mi&quot;&gt;16&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;n&quot;&gt;tokn&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;your github API token&amp;#39;&lt;/span&gt; 
-&lt;span class=&quot;mi&quot;&gt;17&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;n&quot;&gt;repository&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;you git hub repostory where you site is stored&amp;#39;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;The other change I made was on line 42&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; which set the default file type, being pushed to github, from .markdown to .md.&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; 
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;n&quot;&gt;post_filename&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;_posts/&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;.markdown&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;safe_title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;em&gt;Changed .markdown to .md&lt;/em&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;mi&quot;&gt;42&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;   &lt;span class=&quot;n&quot;&gt;post_filename&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;_posts/&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%s&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;.md&amp;#39;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;safe_title&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;editorial-setup&quot;&gt;Editorial Setup&lt;/h3&gt;
-
-&lt;p&gt;For those of you who have used Editorial’s workflows this is pretty stright forward what you’d do with the script but for those who haven’t just follow along.
-&lt;br /&gt;&lt;br /&gt;
-I suggest creating a post to test with before starting. Then you will click the wrench in the two right conner to enter the workflow panel. Once in the workflow panel you will want to create a new workflow by clicking on the ‘+’ in the top left conner.
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://carlhicks.me/images/2014-09-11-editorial-01.png&quot; width=&quot;240&quot; height=&quot;426&quot; hspace=&quot;20&quot; /&gt;&lt;img src=&quot;http://carlhicks.me/images/2014-09-11-editorial-02.png&quot; width=&quot;240&quot; height=&quot;426&quot; hspace=&quot;20&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-At this point you will be in a blank workflow. You will want to add to add action to your workflow by clicking on the ‘+’ in the top left corner. Scroll down to add the ‘Run Python Script’ action.
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://carlhicks.me/images/2014-09-11-editorial-03.png&quot; width=&quot;240&quot; height=&quot;426&quot; hspace=&quot;20&quot; /&gt;&lt;img src=&quot;http://carlhicks.me/images/2014-09-11-editorial-04.png&quot; width=&quot;240&quot; height=&quot;426&quot; hspace=&quot;20&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;
-Once the python action has been added you will need to add your script in the editor window. Once added you can test your changes to make sure the settings are match your needs. You will get a dialog box with a status.
-&lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://carlhicks.me/images/2014-09-11-editorial-05.png&quot; width=&quot;240&quot; height=&quot;426&quot; hspace=&quot;20&quot; /&gt;&lt;img src=&quot;http://carlhicks.me/images/2014-09-11-editorial-06.png&quot; width=&quot;240&quot; height=&quot;426&quot; hspace=&quot;20&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
-At this point your set.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;I’ve forked Wats’ gist and made the changes which can be found at &lt;a href=&quot;http://gist.github.com/hicksca/be56fc6cbff13e559e7c&quot;&gt;Link&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;I would post the entire script but it doesn’t visually look good in the post due to the length. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Remeber that I’ve removed lines of code from the script if your looking at the original it will be at line 58. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;This doesn’t have to be changed and will work just fine but for continuity purposes I made the change. I prefer the .md file type so all my other post are saved as .md files and I did not want to have two different file types living in this directory. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/09/updating-mobile-jekyll-script/&quot;&gt;UPDATING MOBILE JEKYLL SCRIPT&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 11, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
