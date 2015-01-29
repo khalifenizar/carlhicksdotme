@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GITTING TDD RELIGION"
+title: "GETTING TDD RELIGION"
 author: carl_hicks
 categories:
 excerpt: "I think I have found the TDD religion ..."
@@ -15,9 +15,7 @@ link:
 ---
 
 
-<center><img src="http://carlhicks.me/images/chtddpost.png"></center>
-
-<br>
+<center><img src="http://carlhicks.me/images/chtddpost.png"></center>  
 <br>
 <br>
 I think I have found the TDD religion, after going over a seven hundered or so line spec decribing the javascript langauge, I know apperciate the usefulness of a well writen test and what it can do to drive how you think about how to approach a problem.
