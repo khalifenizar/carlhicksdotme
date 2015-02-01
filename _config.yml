@@ -24,7 +24,7 @@ kramdown:
 use_coderay: false
 
 # deployment
-destination: ~/webapps/_site
+#destination: ~/webapps/_site
 
 
 # Site owner
