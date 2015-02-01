@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">carlhicks[dot]me</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://carlhicks.me/feed.xml" />
-<link rel="alternate" type="text/html" href="http://carlhicks.me" />
-<updated>2015-01-29T17:26:46-05:00</updated>
-<id>http://carlhicks.me/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2015-01-30T18:44:03-05:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>Carl Hicks</name>
-  <uri>http://carlhicks.me/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>mail@carlhicks.me</email>
 </author>
 
@@ -17,13 +17,13 @@
 
 <entry>
   <title type="html"><![CDATA[GETTING TDD RELIGION]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2015/01/getting-tdd-religion/" />
-  <id>http://carlhicks.me/blog/2015/01/getting-tdd-religion</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2015/01/getting-tdd-religion/" />
+  <id>http://localhost:4000/blog/2015/01/getting-tdd-religion</id>
   <published>2015-01-29T10:35:20-05:00</published>
   <updated>2015-01-29T10:35:20-05:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;center&gt;&lt;img src=&quot;http://carlhicks.me/images/chtddpost.png&quot; /&gt;&lt;/center&gt;
@@ -33,7 +33,7 @@ I think I have found the TDD religion, after going over a seven hundered or so l
 &lt;br /&gt;
 Speacial thanks to the &lt;a href=&quot;http://www.ironhack.com/&quot;&gt;Ironhack&lt;/a&gt; team and &lt;a href=&quot;https://twitter.com/carlosble&quot;&gt;Carlos Blé&lt;/a&gt; for creating a really cool exercise.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2015/01/getting-tdd-religion/&quot;&gt;GETTING TDD RELIGION&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on January 29, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2015/01/getting-tdd-religion/&quot;&gt;GETTING TDD RELIGION&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on January 29, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -41,19 +41,19 @@ Speacial thanks to the &lt;a href=&quot;http://www.ironhack.com/&quot;&gt;Ironha
 
 <entry>
   <title type="html"><![CDATA[[wat]]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/links/2015/01/WAT-link/" />
-  <id>http://carlhicks.me/blog/links/2015/01/WAT-link</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/links/2015/01/WAT-link/" />
+  <id>http://localhost:4000/blog/links/2015/01/WAT-link</id>
   <published>2015-01-28T20:15:03-05:00</published>
   <updated>2015-01-28T20:15:03-05:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;p&gt;I was introduced to a super funny (… well I thought so any way) web video by &lt;a href=&quot;https://twitter.com/garybernhardt&quot;&gt;Gary Bernhardt&lt;/a&gt;.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/links/2015/01/WAT-link/&quot;&gt;[wat]&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on January 28, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/links/2015/01/WAT-link/&quot;&gt;[wat]&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on January 28, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -61,13 +61,13 @@ Speacial thanks to the &lt;a href=&quot;http://www.ironhack.com/&quot;&gt;Ironha
 
 <entry>
   <title type="html"><![CDATA[IRONHACK]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2015/01/IronHack/" />
-  <id>http://carlhicks.me/blog/2015/01/IronHack</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2015/01/IronHack/" />
+  <id>http://localhost:4000/blog/2015/01/IronHack</id>
   <published>2015-01-18T21:20:40-05:00</published>
   <updated>2015-01-18T21:20:40-05:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;center&gt;&lt;img src=&quot;http://carlhicks.me/images/IH_logo.jpg&quot; /&gt;&lt;/center&gt;
@@ -78,7 +78,7 @@ Last week was the kickoff of a vary new and interesting experience for me. Week 
 &lt;br /&gt;
 &lt;img src=&quot;http://carlhicks.me/images/IronHack1.png&quot; /&gt;&lt;img src=&quot;http://carlhicks.me/images/IronHack2.png&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2015/01/IronHack/&quot;&gt;IRONHACK&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on January 18, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2015/01/IronHack/&quot;&gt;IRONHACK&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on January 18, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -86,13 +86,13 @@ Last week was the kickoff of a vary new and interesting experience for me. Week 
 
 <entry>
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/11/what-im-reading-53/" />
-  <id>http://carlhicks.me/blog/2014/11/what-im-reading-53</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/11/what-im-reading-53/" />
+  <id>http://localhost:4000/blog/2014/11/what-im-reading-53</id>
   <published>2014-11-06T10:12:11-06:00</published>
   <updated>2014-11-06T10:12:11-06:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;h4 id=&quot;things-im-reading-this-week&quot;&gt;Things I’m reading this week:&lt;/h4&gt;
@@ -108,7 +108,7 @@ Last week was the kickoff of a vary new and interesting experience for me. Week 
 &lt;br /&gt;
 &lt;a href=&quot;http://www.newyorker.com/culture/cultural-comment/mcdonalds-versus-haters&quot;&gt; &lt;em&gt;McDonald’s Versus the Haters&lt;/em&gt; &lt;/a&gt;@ &lt;a href=&quot;http://newyorker.com&quot;&gt;&lt;strong&gt;The New Yorker&lt;/strong&gt;&lt;/a&gt; by &lt;a href=&quot;http://www.danagoodyear.com/bio/&quot;&gt;Dana Goodyear&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/11/what-im-reading-53/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on November 06, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/11/what-im-reading-53/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on November 06, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -116,18 +116,18 @@ Last week was the kickoff of a vary new and interesting experience for me. Week 
 
 <entry>
   <title type="html"><![CDATA[% of USA Populcation Obtaining Food Stamps 1989-2012]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/us-state-presentage-of-population-on-food-stamps-1989-2012-link/" />
-  <id>http://carlhicks.me/blog/2014/10/us-state-presentage-of-population-on-food-stamps-1989-2012-link</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/10/us-state-presentage-of-population-on-food-stamps-1989-2012-link/" />
+  <id>http://localhost:4000/blog/2014/10/us-state-presentage-of-population-on-food-stamps-1989-2012-link</id>
   <published>2014-10-31T11:12:16-04:00</published>
   <updated>2014-10-31T11:12:16-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;p&gt;Really great infographic but the data is a little alarming.→&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/10/us-state-presentage-of-population-on-food-stamps-1989-2012-link/&quot;&gt;% of USA Populcation Obtaining Food Stamps 1989-2012&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/10/us-state-presentage-of-population-on-food-stamps-1989-2012-link/&quot;&gt;% of USA Populcation Obtaining Food Stamps 1989-2012&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -135,13 +135,13 @@ Last week was the kickoff of a vary new and interesting experience for me. Week 
 
 <entry>
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/what-im-reading-52/" />
-  <id>http://carlhicks.me/blog/2014/10/what-im-reading-52</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/10/what-im-reading-52/" />
+  <id>http://localhost:4000/blog/2014/10/what-im-reading-52</id>
   <published>2014-10-31T10:15:31-04:00</published>
   <updated>2014-10-31T10:15:31-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;h4 id=&quot;things-im-reading-this-week&quot;&gt;Things I’m reading this week:&lt;/h4&gt;
@@ -157,7 +157,7 @@ Last week was the kickoff of a vary new and interesting experience for me. Week 
 &lt;br /&gt;
 &lt;a href=&quot;http://arstechnica.com/apple/2014/10/os-x-10-10/&quot;&gt; &lt;em&gt;OS X 10.10 Yosemite: The Ars Technica Review&lt;/em&gt; &lt;/a&gt; @ &lt;a href=&quot;http://arstechnica.com&quot;&gt;&lt;strong&gt;ars technica&lt;/strong&gt;&lt;/a&gt; by &lt;a href=&quot;http://hypercritical.co/about/&quot;&gt;John Siracusa&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/10/what-im-reading-52/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/10/what-im-reading-52/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -165,18 +165,18 @@ Last week was the kickoff of a vary new and interesting experience for me. Week 
 
 <entry>
   <title type="html"><![CDATA[Getting Started with Node.js for the Rails Developer]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/getting-started-with-nodejs-for-the-rails-developer-link/" />
-  <id>http://carlhicks.me/blog/2014/10/getting-started-with-nodejs-for-the-rails-developer-link</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/10/getting-started-with-nodejs-for-the-rails-developer-link/" />
+  <id>http://localhost:4000/blog/2014/10/getting-started-with-nodejs-for-the-rails-developer-link</id>
   <published>2014-10-26T21:16:16-04:00</published>
   <updated>2014-10-26T21:16:16-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;p&gt;Get post by the good people over at StrongLoop.→&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/10/getting-started-with-nodejs-for-the-rails-developer-link/&quot;&gt;Getting Started with Node.js for the Rails Developer&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 26, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/10/getting-started-with-nodejs-for-the-rails-developer-link/&quot;&gt;Getting Started with Node.js for the Rails Developer&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 26, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -184,13 +184,13 @@ Last week was the kickoff of a vary new and interesting experience for me. Week 
 
 <entry>
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/what-im-reading-50/" />
-  <id>http://carlhicks.me/blog/2014/10/what-im-reading-50</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/10/what-im-reading-50/" />
+  <id>http://localhost:4000/blog/2014/10/what-im-reading-50</id>
   <published>2014-10-24T22:59:31-04:00</published>
   <updated>2014-10-24T22:59:31-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;h4 id=&quot;things-im-reading-this-week&quot;&gt;Things I’m reading this week:&lt;/h4&gt;
@@ -209,7 +209,7 @@ Last week was the kickoff of a vary new and interesting experience for me. Week 
 &lt;br /&gt;
 &lt;a href=&quot;http://startuprisingbook.com&quot;&gt; &lt;em&gt;Startup Rising: The Entrepreneurial Revolution Remaking the Middle East&lt;/em&gt;&lt;/a&gt; by &lt;a href=&quot;http://startrisingbook.com/meet-christopher&quot;&gt;&lt;strong&gt;Christopher Schroeder&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/10/what-im-reading-50/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 24, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/10/what-im-reading-50/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 24, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -217,13 +217,13 @@ Last week was the kickoff of a vary new and interesting experience for me. Week 
 
 <entry>
   <title type="html"><![CDATA[Parsing natural language in Drafts 4]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/parsing-natural-language-in-drafts-4/" />
-  <id>http://carlhicks.me/blog/2014/10/parsing-natural-language-in-drafts-4</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/10/parsing-natural-language-in-drafts-4/" />
+  <id>http://localhost:4000/blog/2014/10/parsing-natural-language-in-drafts-4</id>
   <published>2014-10-21T01:45:06-04:00</published>
   <updated>2014-10-21T01:45:06-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;p&gt;Phillip Gruneich:
@@ -236,7 +236,7 @@ Last week was the kickoff of a vary new and interesting experience for me. Week 
 &lt;p&gt;&lt;br /&gt;
 I think we are definetly starting to see a new class of apps coming for iOS. Philip highlight that he isn’t a pro with Javascript but yet he was able to do some pretty impressive work here.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/10/parsing-natural-language-in-drafts-4/&quot;&gt;Parsing natural language in Drafts 4&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 21, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/10/parsing-natural-language-in-drafts-4/&quot;&gt;Parsing natural language in Drafts 4&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 21, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -244,13 +244,13 @@ I think we are definetly starting to see a new class of apps coming for iOS. Phi
 
 <entry>
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/what-im-reading-49/" />
-  <id>http://carlhicks.me/blog/2014/10/what-im-reading-49</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/10/what-im-reading-49/" />
+  <id>http://localhost:4000/blog/2014/10/what-im-reading-49</id>
   <published>2014-10-17T23:59:51-04:00</published>
   <updated>2014-10-17T23:59:51-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;h4 id=&quot;things-im-reading-this-week&quot;&gt;Things I’m reading this week:&lt;/h4&gt;
@@ -269,7 +269,7 @@ I think we are definetly starting to see a new class of apps coming for iOS. Phi
 &lt;br /&gt;
 &lt;a href=&quot;http://www.amazon.com/gp/aw/d/0062261533?pc_redir=1413174342&amp;amp;robot_redir=1&quot;&gt; &lt;em&gt;Do Cool Sh*t: Quit Your Day Job, Start Your Own Business, and Live Happily Ever After&lt;/em&gt; &lt;/a&gt; @ by &lt;a href=&quot;http://www.mikiagrawal.com/about-miki/&quot;&gt;&lt;strong&gt;Miki Agrawal&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/10/what-im-reading-49/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 17, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/10/what-im-reading-49/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 17, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -277,18 +277,18 @@ I think we are definetly starting to see a new class of apps coming for iOS. Phi
 
 <entry>
   <title type="html"><![CDATA[5 Programming Languages Marked for Death]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/5-programming-languages-marked-for-death-link/" />
-  <id>http://carlhicks.me/blog/2014/10/5-programming-languages-marked-for-death-link</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/10/5-programming-languages-marked-for-death-link/" />
+  <id>http://localhost:4000/blog/2014/10/5-programming-languages-marked-for-death-link</id>
   <published>2014-10-13T14:12:30-04:00</published>
   <updated>2014-10-13T14:12:30-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;p&gt;I don’t know that I’d put Ruby on the same chopping block as Perl and VB.NET. I would also say we are more likly to have a conversation around the sunsetting of PHP before we would Ruby, but that is just my thoughs on the matter.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/10/5-programming-languages-marked-for-death-link/&quot;&gt;5 Programming Languages Marked for Death&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 13, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/10/5-programming-languages-marked-for-death-link/&quot;&gt;5 Programming Languages Marked for Death&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 13, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -296,13 +296,13 @@ I think we are definetly starting to see a new class of apps coming for iOS. Phi
 
 <entry>
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/what-im-reading-48/" />
-  <id>http://carlhicks.me/blog/2014/10/what-im-reading-48</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/10/what-im-reading-48/" />
+  <id>http://localhost:4000/blog/2014/10/what-im-reading-48</id>
   <published>2014-10-10T20:42:29-04:00</published>
   <updated>2014-10-10T20:42:29-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;h4 id=&quot;things-im-reading-this-week&quot;&gt;Things I’m reading this week:&lt;/h4&gt;
@@ -318,7 +318,7 @@ I think we are definetly starting to see a new class of apps coming for iOS. Phi
 &lt;br /&gt;
 &lt;a href=&quot;http://arcturo.github.io/library/coffeescript/&quot;&gt;The Little Book on CoffeeScript&lt;/a&gt; by &lt;a href=&quot;http://alexmaccaw.com/&quot;&gt;&lt;strong&gt;Alex MacCaw&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/10/what-im-reading-48/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/10/what-im-reading-48/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -326,13 +326,13 @@ I think we are definetly starting to see a new class of apps coming for iOS. Phi
 
 <entry>
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/10/what-im-reading-47/" />
-  <id>http://carlhicks.me/blog/2014/10/what-im-reading-47</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/10/what-im-reading-47/" />
+  <id>http://localhost:4000/blog/2014/10/what-im-reading-47</id>
   <published>2014-10-03T21:48:50-04:00</published>
   <updated>2014-10-03T21:48:50-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;h4 id=&quot;things-im-reading-this-week&quot;&gt;Things I’m reading this week:&lt;/h4&gt;
@@ -348,7 +348,7 @@ I think we are definetly starting to see a new class of apps coming for iOS. Phi
 &lt;br /&gt;
 &lt;a href=&quot;http://www.amazon.com/Hamlets-BlackBerry-Building-Good-Digital/dp/0061687170/ref=tmm_pap_title_0?ie=UTF8&amp;amp;qid=1311953531&amp;amp;sr=1-1&quot;&gt; &lt;em&gt;Hamlet’s BlackBerry: Building a Good Life in the Digital Age&lt;/em&gt; &lt;/a&gt; - by &lt;a href=&quot;http://www.williampowers.com/abput-me&quot;&gt;&lt;strong&gt;William Powers&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/10/what-im-reading-47/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 03, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/10/what-im-reading-47/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on October 03, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -356,18 +356,18 @@ I think we are definetly starting to see a new class of apps coming for iOS. Phi
 
 <entry>
   <title type="html"><![CDATA[COOL RAILS - Revision.io]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/09/cool-rails-revisionio/" />
-  <id>http://carlhicks.me/blog/2014/09/cool-rails-revisionio</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/09/cool-rails-revisionio/" />
+  <id>http://localhost:4000/blog/2014/09/cool-rails-revisionio</id>
   <published>2014-09-27T07:15:02-04:00</published>
   <updated>2014-09-27T07:15:02-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;h3 id=&quot;cool-rails-projects-i-come-across-on-the-web-each-week&quot;&gt;Cool Rails projects I come across on the web each week.&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://revision.io/&quot;&gt;&lt;img src=&quot;http://carlhicks.me/images/revision_hp.jpg&quot; boarder=&quot;10&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;http://revision.io/&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/revision_hp.jpg&quot; boarder=&quot;10&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
 &lt;br /&gt;
 This week my pick is &lt;a href=&quot;http://revision.io/&quot;&gt;Revision.io&lt;/a&gt; created by &lt;a href=&quot;http://www.mbleigh.com/&quot;&gt;Michael Bleigh&lt;/a&gt; and &lt;a href=&quot;http://jakejohnson.com/about/&quot;&gt;Jake Johnson&lt;/a&gt;&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;br /&gt;
 &lt;br /&gt;
@@ -389,7 +389,7 @@ While not new by any means &lt;/p&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/09/cool-rails-revisionio/&quot;&gt;COOL RAILS - Revision.io&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 27, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/09/cool-rails-revisionio/&quot;&gt;COOL RAILS - Revision.io&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -397,13 +397,13 @@ While not new by any means &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/09/what-im-reading-46/" />
-  <id>http://carlhicks.me/blog/2014/09/what-im-reading-46</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/09/what-im-reading-46/" />
+  <id>http://localhost:4000/blog/2014/09/what-im-reading-46</id>
   <published>2014-09-26T23:16:22-04:00</published>
   <updated>2014-09-26T23:16:22-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;h4 id=&quot;things-im-reading-this-week&quot;&gt;Things I’m reading this week:&lt;/h4&gt;
@@ -435,7 +435,7 @@ While not new by any means &lt;/p&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/09/what-im-reading-46/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 26, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/09/what-im-reading-46/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 26, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -443,13 +443,13 @@ While not new by any means &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Onbaording Junior Developers]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/links/2014/09/onboarding-junior-developers-link/" />
-  <id>http://carlhicks.me/blog/links/2014/09/onboarding-junior-developers-link</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/links/2014/09/onboarding-junior-developers-link/" />
+  <id>http://localhost:4000/blog/links/2014/09/onboarding-junior-developers-link</id>
   <published>2014-09-25T03:01:00-04:00</published>
   <updated>2014-09-25T03:01:00-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;p&gt;I really liked the overview of this talk specifically:&lt;/p&gt;
@@ -466,7 +466,7 @@ While not new by any means &lt;/p&gt;
 
 &lt;p&gt;Generally speaking, these are some really good ideas that are often promised in some form but rarely executed well. If a company can get this last part down that would be a place where I would be highly interested in working.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/links/2014/09/onboarding-junior-developers-link/&quot;&gt;Onbaording Junior Developers&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 25, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/links/2014/09/onboarding-junior-developers-link/&quot;&gt;Onbaording Junior Developers&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 25, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -474,18 +474,18 @@ While not new by any means &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[COOL RAILS - Github]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/09/cool-rails-github/" />
-  <id>http://carlhicks.me/blog/2014/09/cool-rails-github</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/09/cool-rails-github/" />
+  <id>http://localhost:4000/blog/2014/09/cool-rails-github</id>
   <published>2014-09-20T17:41:12-04:00</published>
   <updated>2014-09-20T17:41:12-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;h3 id=&quot;cool-rails-projects-i-come-across-on-the-web-each-week&quot;&gt;Cool Rails projects I come across on the web each week.&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com&quot;&gt;&lt;img src=&quot;http://carlhicks.me/images/github_hp.jpg&quot; boarder=&quot;10&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com&quot;&gt;&lt;img src=&quot;http://localhost:4000/images/github_hp.jpg&quot; boarder=&quot;10&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
 &lt;br /&gt;
 This week my pick is &lt;a href=&quot;https://github.com&quot;&gt;Github&lt;/a&gt; from Github,Inc&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br /&gt;
 &lt;br /&gt;
@@ -508,7 +508,7 @@ While not new by any means &lt;/p&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/09/cool-rails-github/&quot;&gt;COOL RAILS - Github&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 20, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/09/cool-rails-github/&quot;&gt;COOL RAILS - Github&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 20, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -516,13 +516,13 @@ While not new by any means &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[WHAT I'M READING]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/2014/09/what-im-reading-45/" />
-  <id>http://carlhicks.me/blog/2014/09/what-im-reading-45</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2014/09/what-im-reading-45/" />
+  <id>http://localhost:4000/blog/2014/09/what-im-reading-45</id>
   <published>2014-09-19T03:16:22-04:00</published>
   <updated>2014-09-19T03:16:22-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;h4 id=&quot;things-im-reading-this-week&quot;&gt;Things I’m reading this week:&lt;/h4&gt;
@@ -551,7 +551,7 @@ While not new by any means &lt;/p&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/2014/09/what-im-reading-45/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2014/09/what-im-reading-45/&quot;&gt;WHAT I'M READING&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -559,13 +559,13 @@ While not new by any means &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Great intro to tmux session]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/links/2014/09/great-tmux-intro-link/" />
-  <id>http://carlhicks.me/blog/links/2014/09/great-tmux-intro-link</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/links/2014/09/great-tmux-intro-link/" />
+  <id>http://localhost:4000/blog/links/2014/09/great-tmux-intro-link</id>
   <published>2014-09-17T16:30:31-04:00</published>
   <updated>2014-09-17T16:30:31-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;p&gt;This is one of the best basic tmux introduction videos&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I have come accross.&lt;a href=&quot;https://vimeo.com/69185909&quot;&gt;→&lt;/a&gt;  &lt;/p&gt;
@@ -584,7 +584,7 @@ While not new by any means &lt;/p&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/links/2014/09/great-tmux-intro-link/&quot;&gt;Great intro to tmux session&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 17, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/links/2014/09/great-tmux-intro-link/&quot;&gt;Great intro to tmux session&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 17, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -592,18 +592,18 @@ While not new by any means &lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Git pretty]]></title>
-  <link rel="alternate" type="text/html" href="http://carlhicks.me/blog/links/2014/09/git-pretty-link/" />
-  <id>http://carlhicks.me/blog/links/2014/09/git-pretty-link</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/links/2014/09/git-pretty-link/" />
+  <id>http://localhost:4000/blog/links/2014/09/git-pretty-link</id>
   <published>2014-09-16T00:03:24-04:00</published>
   <updated>2014-09-16T00:03:24-04:00</updated>
   <author>
     <name>Carl Hicks</name>
-    <uri>http://carlhicks.me</uri>
+    <uri>http://localhost:4000</uri>
     <email>mail@carlhicks.me</email>
   </author>
   <content type="html">&lt;p&gt;I generally dislike looking at flowcharts but this one I find to be rather helpful.&lt;a href=&quot;http://justinhileman.info/article/git-pretty/&quot;&gt;→&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://carlhicks.me/blog/links/2014/09/git-pretty-link/&quot;&gt;Git pretty&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://carlhicks.me&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 16, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/links/2014/09/git-pretty-link/&quot;&gt;Git pretty&lt;/a&gt; was originally published by Carl Hicks at &lt;a href=&quot;http://localhost:4000&quot;&gt;carlhicks[dot]me&lt;/a&gt; on September 16, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

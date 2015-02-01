@@ -3,7 +3,7 @@
   
   
   <url>
-    <loc>http://carlhicks.me/blog/2015/01/getting-tdd-religion/</loc>
+    <loc>http://localhost:4000/blog/2015/01/getting-tdd-religion/</loc>
     
     <lastmod>2015-01-29T10:35:20-05:00</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/links/2015/01/WAT-link/</loc>
+    <loc>http://localhost:4000/blog/links/2015/01/WAT-link/</loc>
     
     <lastmod>2015-01-28T20:15:03-05:00</lastmod>
     
@@ -19,7 +19,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2015/01/IronHack/</loc>
+    <loc>http://localhost:4000/blog/2015/01/IronHack/</loc>
     
     <lastmod>2015-01-18T21:20:40-05:00</lastmod>
     
@@ -27,7 +27,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/11/what-im-reading-53/</loc>
+    <loc>http://localhost:4000/blog/2014/11/what-im-reading-53/</loc>
     
     <lastmod>2014-11-06T10:12:11-06:00</lastmod>
     
@@ -35,7 +35,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/10/us-state-presentage-of-population-on-food-stamps-1989-2012-link/</loc>
+    <loc>http://localhost:4000/blog/2014/10/us-state-presentage-of-population-on-food-stamps-1989-2012-link/</loc>
     
     <lastmod>2014-10-31T11:12:16-04:00</lastmod>
     
@@ -43,7 +43,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/10/what-im-reading-52/</loc>
+    <loc>http://localhost:4000/blog/2014/10/what-im-reading-52/</loc>
     
     <lastmod>2014-10-31T10:15:31-04:00</lastmod>
     
@@ -51,7 +51,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/10/getting-started-with-nodejs-for-the-rails-developer-link/</loc>
+    <loc>http://localhost:4000/blog/2014/10/getting-started-with-nodejs-for-the-rails-developer-link/</loc>
     
     <lastmod>2014-10-26T21:16:16-04:00</lastmod>
     
@@ -59,7 +59,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/10/what-im-reading-50/</loc>
+    <loc>http://localhost:4000/blog/2014/10/what-im-reading-50/</loc>
     
     <lastmod>2014-10-24T22:59:31-04:00</lastmod>
     
@@ -67,7 +67,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/10/parsing-natural-language-in-drafts-4/</loc>
+    <loc>http://localhost:4000/blog/2014/10/parsing-natural-language-in-drafts-4/</loc>
     
     <lastmod>2014-10-21T01:45:06-04:00</lastmod>
     
@@ -75,7 +75,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/10/what-im-reading-49/</loc>
+    <loc>http://localhost:4000/blog/2014/10/what-im-reading-49/</loc>
     
     <lastmod>2014-10-17T23:59:51-04:00</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/10/5-programming-languages-marked-for-death-link/</loc>
+    <loc>http://localhost:4000/blog/2014/10/5-programming-languages-marked-for-death-link/</loc>
     
     <lastmod>2014-10-13T14:12:30-04:00</lastmod>
     
@@ -91,7 +91,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/10/what-im-reading-48/</loc>
+    <loc>http://localhost:4000/blog/2014/10/what-im-reading-48/</loc>
     
     <lastmod>2014-10-10T20:42:29-04:00</lastmod>
     
@@ -99,7 +99,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/10/what-im-reading-47/</loc>
+    <loc>http://localhost:4000/blog/2014/10/what-im-reading-47/</loc>
     
     <lastmod>2014-10-03T21:48:50-04:00</lastmod>
     
@@ -107,7 +107,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/09/cool-rails-revisionio/</loc>
+    <loc>http://localhost:4000/blog/2014/09/cool-rails-revisionio/</loc>
     
     <lastmod>2014-09-27T07:15:02-04:00</lastmod>
     
@@ -115,7 +115,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/09/what-im-reading-46/</loc>
+    <loc>http://localhost:4000/blog/2014/09/what-im-reading-46/</loc>
     
     <lastmod>2014-09-26T23:16:22-04:00</lastmod>
     
@@ -123,7 +123,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/links/2014/09/onboarding-junior-developers-link/</loc>
+    <loc>http://localhost:4000/blog/links/2014/09/onboarding-junior-developers-link/</loc>
     
     <lastmod>2014-09-25T03:01:00-04:00</lastmod>
     
@@ -131,7 +131,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/09/cool-rails-github/</loc>
+    <loc>http://localhost:4000/blog/2014/09/cool-rails-github/</loc>
     
     <lastmod>2014-09-20T17:41:12-04:00</lastmod>
     
@@ -139,7 +139,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/09/what-im-reading-45/</loc>
+    <loc>http://localhost:4000/blog/2014/09/what-im-reading-45/</loc>
     
     <lastmod>2014-09-19T03:16:22-04:00</lastmod>
     
@@ -147,7 +147,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/links/2014/09/great-tmux-intro-link/</loc>
+    <loc>http://localhost:4000/blog/links/2014/09/great-tmux-intro-link/</loc>
     
     <lastmod>2014-09-17T16:30:31-04:00</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/links/2014/09/git-pretty-link/</loc>
+    <loc>http://localhost:4000/blog/links/2014/09/git-pretty-link/</loc>
     
     <lastmod>2014-09-16T00:03:24-04:00</lastmod>
     
@@ -163,7 +163,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/09/cool-rails-availio/</loc>
+    <loc>http://localhost:4000/blog/2014/09/cool-rails-availio/</loc>
     
     <lastmod>2014-09-13T13:41:19-04:00</lastmod>
     
@@ -171,7 +171,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/09/what-im-reading-44/</loc>
+    <loc>http://localhost:4000/blog/2014/09/what-im-reading-44/</loc>
     
     <lastmod>2014-09-12T14:01:22-04:00</lastmod>
     
@@ -179,7 +179,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/09/updating-mobile-jekyll-script/</loc>
+    <loc>http://localhost:4000/blog/2014/09/updating-mobile-jekyll-script/</loc>
     
     <lastmod>2014-09-11T18:46:05-04:00</lastmod>
     
@@ -187,7 +187,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/links/2014/09/not-a-hobby-link/</loc>
+    <loc>http://localhost:4000/blog/links/2014/09/not-a-hobby-link/</loc>
     
     <lastmod>2014-09-10T23:25:26-04:00</lastmod>
     
@@ -195,7 +195,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/09/mobile-jekyll-posting/</loc>
+    <loc>http://localhost:4000/blog/2014/09/mobile-jekyll-posting/</loc>
     
     <lastmod>2014-09-09T03:12:33-04:00</lastmod>
     
@@ -203,7 +203,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/links/2014/09/the-terminal-link/</loc>
+    <loc>http://localhost:4000/blog/links/2014/09/the-terminal-link/</loc>
     
     <lastmod>2014-09-08T03:01:00-04:00</lastmod>
     
@@ -211,7 +211,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/09/cool-rails-nycvotes/</loc>
+    <loc>http://localhost:4000/blog/2014/09/cool-rails-nycvotes/</loc>
     
     <lastmod>2014-09-06T12:03:29-04:00</lastmod>
     
@@ -219,7 +219,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/09/what-im-reading-43/</loc>
+    <loc>http://localhost:4000/blog/2014/09/what-im-reading-43/</loc>
     
     <lastmod>2014-09-05T15:12:02-04:00</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/links/2014/09/why-you-can-startup-right-where-you-are-link/</loc>
+    <loc>http://localhost:4000/blog/links/2014/09/why-you-can-startup-right-where-you-are-link/</loc>
     
     <lastmod>2014-09-04T14:38:53-04:00</lastmod>
     
@@ -235,7 +235,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/08/cool-rails-citystrides/</loc>
+    <loc>http://localhost:4000/blog/2014/08/cool-rails-citystrides/</loc>
     
     <lastmod>2014-08-29T05:29:21-04:00</lastmod>
     
@@ -243,7 +243,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/08/als-ice-bucket/</loc>
+    <loc>http://localhost:4000/blog/2014/08/als-ice-bucket/</loc>
     
     <lastmod>2014-08-25T02:15:43-04:00</lastmod>
     
@@ -251,7 +251,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/links/2014/08/I-love-the-internet-link/</loc>
+    <loc>http://localhost:4000/blog/links/2014/08/I-love-the-internet-link/</loc>
     
     <lastmod>2014-08-07T14:12:10-04:00</lastmod>
     
@@ -259,7 +259,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/links/2014/08/bad-rec-link/</loc>
+    <loc>http://localhost:4000/blog/links/2014/08/bad-rec-link/</loc>
     
     <lastmod>2014-08-04T15:49:05-04:00</lastmod>
     
@@ -267,7 +267,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/08/sad-day/</loc>
+    <loc>http://localhost:4000/blog/2014/08/sad-day/</loc>
     
     <lastmod>2014-08-01T05:08:45-04:00</lastmod>
     
@@ -275,7 +275,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/07/squarespace-vs-wordpress/</loc>
+    <loc>http://localhost:4000/blog/2014/07/squarespace-vs-wordpress/</loc>
     
     <lastmod>2014-07-23T12:35:11-04:00</lastmod>
     
@@ -283,7 +283,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/07/cool-find/</loc>
+    <loc>http://localhost:4000/blog/2014/07/cool-find/</loc>
     
     <lastmod>2014-07-17T16:13:14-04:00</lastmod>
     
@@ -291,7 +291,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/02/attention-to-detail/</loc>
+    <loc>http://localhost:4000/blog/2014/02/attention-to-detail/</loc>
     
     <lastmod>2014-02-27T22:13:02-05:00</lastmod>
     
@@ -299,7 +299,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2014/02/what-im-reading-15/</loc>
+    <loc>http://localhost:4000/blog/2014/02/what-im-reading-15/</loc>
     
     <lastmod>2014-02-07T19:18:51-05:00</lastmod>
     
@@ -307,7 +307,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/links/2013/12/become-an-ios-developer-in-8-weeks-the-truth-about-hack-schools-link/</loc>
+    <loc>http://localhost:4000/blog/links/2013/12/become-an-ios-developer-in-8-weeks-the-truth-about-hack-schools-link/</loc>
     
     <lastmod>2013-12-17T07:24:23-05:00</lastmod>
     
@@ -315,7 +315,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/2013/11/what-im-reading-01/</loc>
+    <loc>http://localhost:4000/blog/2013/11/what-im-reading-01/</loc>
     
     <lastmod>2013-11-15T20:16:22-05:00</lastmod>
     
@@ -323,7 +323,7 @@
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/archive/2013/11/hello-world/</loc>
+    <loc>http://localhost:4000/blog/archive/2013/11/hello-world/</loc>
     
     <lastmod>2013-11-15T02:10:02-05:00</lastmod>
     
@@ -332,36 +332,36 @@
   
   
   <url>
-    <loc>http://carlhicks.me/about/</loc>
-    <lastmod>2015-01-29T17:26:46-05:00</lastmod>
+    <loc>http://localhost:4000/about/</loc>
+    <lastmod>2015-01-30T18:44:03-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://carlhicks.me/my-cv/</loc>
-    <lastmod>2015-01-29T17:26:46-05:00</lastmod>
+    <loc>http://localhost:4000/my-cv/</loc>
+    <lastmod>2015-01-30T18:44:03-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://carlhicks.me/</loc>
-    <lastmod>2015-01-29T17:26:46-05:00</lastmod>
+    <loc>http://localhost:4000/</loc>
+    <lastmod>2015-01-30T18:44:03-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://carlhicks.me/theme-setup/</loc>
-    <lastmod>2015-01-29T17:26:46-05:00</lastmod>
+    <loc>http://localhost:4000/theme-setup/</loc>
+    <lastmod>2015-01-30T18:44:03-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://carlhicks.me/blog/</loc>
-    <lastmod>2015-01-29T17:26:46-05:00</lastmod>
+    <loc>http://localhost:4000/blog/</loc>
+    <lastmod>2015-01-30T18:44:03-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
