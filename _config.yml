@@ -2,7 +2,8 @@
 
 title:            carlhicks[dot]me
 locale:           en_US
-url:              http://carlhicks.me #http://localhost:4000
+#url:             http://localhost:4000
+url:             http://carlhicks.me
 
 
 # Jekyll configuration
@@ -21,7 +22,10 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+use_coderay: false
+
+# deployment
+#destination: ~/webapps/_site
 
 
 # Site owner
@@ -32,7 +36,7 @@ owner:
   email: mail@carlhicks.me
   disqus-shortname: carlhicksdotme
   twitter: cahicks1
-  facebook: carlhicksiii
+  facebook:
   google:
     plus: #username
     analytics: UA-54179433-1 
@@ -45,9 +49,9 @@ owner:
   linkedin: carlahicks
   instagram: hicksca1
   lastfm: #username
-  tumblr: hicksca
-  pinterest: hicksca
-  foursquare: cahicks1
+  tumblr: 
+  pinterest: 
+  foursquare:
   steam: #username
   dribbble: #username
 
